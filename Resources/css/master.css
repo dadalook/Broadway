@@ -1,3 +1,14 @@
-.header {
+html {
+  text-align: center;
+  font-family: Helvetica;
+}
 
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.header {
+  color: white;
+  background-image: url(file:///Users/dclaisse/OneDrive/Formation/CodeAcademy/Build%20Websites%20from%20Scratch/Projects/Unit%203%20-%20Git/Broadway/Resources/building.png);
 }
