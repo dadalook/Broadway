@@ -10,5 +10,5 @@ h1 {
 
 .header {
   color: white;
-  background-image: url(file:///Users/dclaisse/OneDrive/Formation/CodeAcademy/Build%20Websites%20from%20Scratch/Projects/Unit%203%20-%20Git/Broadway/Resources/building.png);
+  background-image: url("Resources/building.png");
 }
