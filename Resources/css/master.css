@@ -8,7 +8,43 @@ h1 {
   font-weight: bold;
 }
 
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p{
+  font-size: 14px;
+}
+
 .header {
   color: white;
   background-image: url("../building.png");
+}
+
+.header p {
+    font-size: 18px;
+    color: white;
+}
+
+.newyork p {
+  font-weight: bold;
+  font-size: 23px;
+  color: white;
+  background-image: url("../building.png");
+}
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+
+.copyright {
+  font-size: 11px;
 }
