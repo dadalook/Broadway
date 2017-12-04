@@ -10,5 +10,5 @@ h1 {
 
 .header {
   color: white;
-  background-image: url("Resources/building.png");
+  background-image: url("../building.png");
 }
